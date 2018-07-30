@@ -1,13 +1,17 @@
-package com.elyeproj.simplestappwithdagger2
+package com.elyeproj.DaggerExp
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import android.widget.Toast
-import com.elyeproj.simplestappwithdagger2.MyApplication.Companion.magicBox
-import com.elyeproj.simplestappwithdagger2.module.Animal
-import com.elyeproj.simplestappwithdagger2.module.GetPropertyDetails
-import com.elyeproj.simplestappwithdagger2.module.Perso
+import com.elyeproj.DaggerExp.MyApplication.Companion.magicBox
+import com.elyeproj.DaggerExp.module.Animal
+import com.elyeproj.DaggerExp.module.GetPropertyDetails
+import com.elyeproj.DaggerExp.module.Perso
+import com.elyeproj.simplestappwithdagger2.R
+import io.reactivex.android.schedulers.AndroidSchedulers
+import io.reactivex.schedulers.Schedulers
+import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -36,13 +40,14 @@ class MainActivity : AppCompatActivity() {
         animal.name = "Animal n1"
         Log.d("animal", animal.name)
 
-        getDataFromCodeForces ()
+        btn2.setOnClickListener{getDataFromCodeForces ()}
+        btn1.setOnClickListener{getDataFromCodeForces2 ()}
 
     }
 
     fun getDataFromCodeForces (){
 
-        apiInterface.getInfo().enqueue(object : Callback<GetPropertyDetails> {
+        apiInterface.getInfos().enqueue(object : Callback<GetPropertyDetails> {
             override fun onResponse(call: Call<GetPropertyDetails>?, response: Response<GetPropertyDetails>?) {
                 val res = response!!.body()!!.status
                 if (response!!.errorBody() == null && res == "ok") {
@@ -64,6 +69,15 @@ class MainActivity : AppCompatActivity() {
 
             }
         })
+    }
+
+    fun getDataFromCodeForces2 (){
+
+        apiInterface.getInfo().subscribeOn(Schedulers.io())
+                .unsubscribeOn(Schedulers.computation())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe({ response -> Toast.makeText(mContext, response.toString(), Toast.LENGTH_LONG).show() },
+                        {error -> Toast.makeText(applicationContext, error.message, Toast.LENGTH_SHORT).show() })
     }
 }
 

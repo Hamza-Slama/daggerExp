@@ -1,4 +1,4 @@
-package com.elyeproj.simplestappwithdagger2.module
+package com.elyeproj.DaggerExp.module
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName

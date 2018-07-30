@@ -1,7 +1,8 @@
-package com.elyeproj.simplestappwithdagger2
+package com.elyeproj.DaggerExp
 
 import android.app.Application
 import android.location.LocationManager
+import com.elyeproj.simplestappwithdagger2.DaggerMagicBox
 import javax.inject.Inject
 
 
@@ -15,9 +16,8 @@ class MyApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
-       magicBox = DaggerMagicBox
-                .builder()
-                .networkModules(NetworkModules(BASE_URL))
+       magicBox = DaggerMagicBox.builder()
+                .networkModules(NetworkModules(this))
                 .build()
         magicBox.poke(this)
 

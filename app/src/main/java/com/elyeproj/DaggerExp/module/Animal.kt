@@ -1,4 +1,4 @@
-package com.elyeproj.simplestappwithdagger2.module
+package com.elyeproj.DaggerExp.module
 
 class Animal {
 
