@@ -8,6 +8,7 @@ import com.elyeproj.DaggerExp.MyApplication.Companion.magicBox
 import com.elyeproj.DaggerExp.module.Animal
 import com.elyeproj.DaggerExp.module.GetPropertyDetails
 import com.elyeproj.DaggerExp.module.Perso
+import com.elyeproj.DaggerExp.network.ApiInterface
 import com.elyeproj.simplestappwithdagger2.R
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers

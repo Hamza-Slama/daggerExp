@@ -16,7 +16,7 @@
         <activity android:name="com.elyeproj.DaggerExp.MainActivity">
 
         </activity>
-        <activity android:name="com.elyeproj.DaggerExp.ListMovie"> <intent-filter>
+        <activity android:name="com.elyeproj.DaggerExp.Movie.ListMovie"> <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
             <category android:name="android.intent.category.LAUNCHER" />

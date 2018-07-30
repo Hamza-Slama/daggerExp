@@ -1,10 +1,9 @@
 package com.elyeproj.DaggerExp
 
 import android.app.Application
-import android.location.LocationManager
-import com.elyeproj.simplestappwithdagger2.DaggerMagicBox
-import javax.inject.Inject
-
+import com.elyeproj.DaggerExp.di.DaggerMagicBox
+import com.elyeproj.DaggerExp.di.MagicBox
+import com.elyeproj.DaggerExp.di.NetworkModules
 
 
 class MyApplication : Application() {
