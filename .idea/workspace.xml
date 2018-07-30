@@ -11,27 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16c2860c-31c5-409f-a4a8-db9113b530fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/module/Movie.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/module/MovieResponse.kt" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/ApiInterface.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/Const.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/utils/Const.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/ListMovie.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MagicBox.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MainActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MainActivity.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MyApplication.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MyApplication.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/NetworkModules.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_list_movie.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_list_movie.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2682,7 +2662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532953921377</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="move to mvp .">
+      <created>1532960566437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532960566437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2725,7 +2712,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Retrofit Cache with dagger instantiation ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Retrofit Cache with dagger instantiation ." />
+    <MESSAGE value="move to mvp ." />
+    <option name="LAST_COMMIT_MESSAGE" value="move to mvp ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
