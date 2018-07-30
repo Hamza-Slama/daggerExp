@@ -10,64 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16c2860c-31c5-409f-a4a8-db9113b530fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_exifinterface_27_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_9_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/Const.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/ListMovie.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_list_movie.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_movie_layout.xml" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/DaggerMagicBox.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/DaggerMagicBox.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/ListMovie_MembersInjector.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/ListMovie_MembersInjector.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/MainActivity_MembersInjector.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/MainActivity_MembersInjector.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideAnimalFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideAnimalFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideApiClientFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideApiClientFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideContextFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideContextFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideGsonFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideGsonFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideOkHttpCacheFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideOkHttpCacheFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideOkHttpClientFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideOkHttpClientFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvidePersoBFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvidePersoBFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvidePersoFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvidePersoFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideRetrofitFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvideRetrofitFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvidesSharedPreferencesFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/elyeproj/simplestappwithdagger2/NetworkModules_ProvidesSharedPreferencesFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/ApiInterface.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/ApiInterface.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/MagicBox.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MagicBox.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/MainActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MainActivity.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/MyApplication.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/MyApplication.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/NetworkModules.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/NetworkModules.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/module/Animal.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/module/Animal.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/module/GetPropertiesDetails.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/module/GetPropertiesDetails.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/module/Perso.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/module/Perso.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/simplestappwithdagger2/module/Result.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/elyeproj/DaggerExp/module/Result.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-07-24-10-04-37-061.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-07-24-10-04-37-061.rawproto" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2680,6 +2623,14 @@
       <option name="presentableId" value="Default" />
       <updated>1532940444165</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Retrofit Cache with dagger instantiation .">
+      <created>1532953921377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532953921377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2693,14 +2644,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991952" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3269934" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3269934" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3269934" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2719,6 +2670,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Retrofit Cache with dagger instantiation ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Retrofit Cache with dagger instantiation ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
